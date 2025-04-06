@@ -24,8 +24,8 @@ This project uses a branched neural network built with TensorFlow/Keras to predi
 
 Final model accuracy:
 
-- Attrition prediction: **~51.4%**
-- Department prediction: **~82.9**
+- Attrition prediction: **~54.6%**
+- Department prediction: **~79.3**
 
 ## ⚙️ Tools & Technologies
 
